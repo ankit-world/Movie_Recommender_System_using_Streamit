@@ -91,7 +91,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/ankit-world/Movie_Recommender_System_using_Streamit.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
