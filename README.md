@@ -96,11 +96,11 @@ https://github.com/ankit-world/Movie_Recommender_System_using_Streamit.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n movie python=3.7.10 -y
+conda create --prefix ./env python=3.7.10 -y
 ```
 
 ```bash
-conda activate movie
+conda activate ./env
 ```
 
 
